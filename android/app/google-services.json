@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382767140913",
+    "firebase_url": "https://lastchance-2b6f0.firebaseio.com",
+    "project_id": "lastchance-2b6f0",
+    "storage_bucket": "lastchance-2b6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382767140913:android:1809ec3bee20a971",
+        "android_client_info": {
+          "package_name": "com.lastchance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382767140913-2qk9n8h3qbj5f6msk9ojdl7rodt54o9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhN4rguV9xwsPfT3duRDrKr57B1xBZVaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
